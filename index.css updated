@@ -168,7 +168,7 @@ height: 100%;
   padding:1.0em;
   border: 1px solid black;
   width: 25vw;
-  height:100vh;
+  height:50vh;
 }
 
 .box h4{
@@ -326,7 +326,7 @@ height:6vh
   .box{
     margin-bottom: 30px;
     width: 40vw;
-    height:121vh;
+    height:50vh;
     font-size: 2.5vw
   }
   .box input{
